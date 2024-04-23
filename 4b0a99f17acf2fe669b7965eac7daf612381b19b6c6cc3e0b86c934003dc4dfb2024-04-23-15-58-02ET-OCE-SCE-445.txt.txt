@@ -1,0 +1,42 @@
+[
+	{
+		"Text": "C:\\Users\\lesmexti\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Extensions\\blojlgglhfcmpigjbkllcgjmhincdjhb\\1.0.5_0\\icons",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "C:\\Users\\lesmexti\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Extensions\\blojlgglhfcmpigjbkllcgjmhincdjhb\\1.0.5_0\\icons\\grayscale",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "C:\\Users\\lesmexti\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Extensions\\ghbmnnjooekpmoecnnnilnnbdlolhkhi\\1.75.4_0",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "C:\\Users\\lesmexti\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Extensions\\nmmhkkegccagdldgiimedpiccmgmieda\\1.0.0.6_0\\images",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "C:\\Users\\lesmexti\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Service Worker\\CacheStorage\\29eb5eacb05363703a494bbad16a2cdd1da1fb81",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "C:\\Users\\lesmexti\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Service Worker\\CacheStorage\\379f1cbab5b08b6fc9e08681e42d8be311441c88",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "C:\\Users\\lesmexti\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Service Worker\\CacheStorage\\571988c4897ef87c20ec4d6b13878cf6c36e1caf",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "C:\\Users\\lesmexti\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Web Applications\\Manifest Resources\\aghbiahbpaijignceidepookljebhfak\\Icons",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "C:\\Users\\lesmexti\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Web Applications\\Manifest Resources\\agimnkijcaahngcdmfeangaknmldooml\\Icons",
+		"Type": "FOLDER"
+	},
+	{
+		"Text": "C:\\Users\\lesmexti\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Web Applications\\Manifest Resources\\fhihpiojkbmbpdjeoajapmgkhlnakfjf\\Icons",
+		"Type": "FOLDER"
+	}
+]
