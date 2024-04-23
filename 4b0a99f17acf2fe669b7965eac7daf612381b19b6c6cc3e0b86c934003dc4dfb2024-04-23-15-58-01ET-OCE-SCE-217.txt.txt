@@ -1,0 +1,14 @@
+[
+  {
+    "Text": "Microsoft Windows [Version 10.0.19045.2673]",
+    "Type": "OUTPUT"
+  },
+  {
+    "Text": "(c) Microsoft Corporation. All rights reserved.",
+    "Type": "OUTPUT"
+  },
+  {
+    "Text": "C:\\Users\\lesmexti\\AppData\\Local\\Temp\\APT-1517464931>ipconfig",
+    "Type": "OUTPUT"
+  }
+]
