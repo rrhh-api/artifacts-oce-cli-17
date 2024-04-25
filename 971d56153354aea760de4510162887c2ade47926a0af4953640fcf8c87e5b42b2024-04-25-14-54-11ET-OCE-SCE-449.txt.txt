@@ -1,0 +1,7202 @@
+[
+	{
+		"Text": "[Ctrl]",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "m",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "l",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "l",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "k",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "j",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "d",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Ctrl]",
+		"Type": "Key"
+	},
+	{
+		"Text": "v",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Ctrl]",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Ctrl]",
+		"Type": "Key"
+	},
+	{
+		"Text": "v",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Ctrl]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Ctrl]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Ctrl]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Ctrl]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Ctrl]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Ctrl]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Ctrl]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Ctrl]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Ctrl]",
+		"Type": "Key"
+	},
+	{
+		"Text": "x",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Ctrl]",
+		"Type": "Key"
+	},
+	{
+		"Text": "v",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Up]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Ctrl]",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "t",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "t",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "u",
+		"Type": "Key"
+	},
+	{
+		"Text": "t",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Down]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Windows]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Windows]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Right]",
+		"Type": "Key"
+	},
+	{
+		"Text": "d",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "[TAB]",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "[TAB]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[TAB]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[TAB]",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "p",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "[TAB]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "m",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "[TAB]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Up]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Esc]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "g",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "[TAB]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "g",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "t",
+		"Type": "Key"
+	},
+	{
+		"Text": "[TAB]",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "[TAB]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "[TAB]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[TAB]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[TAB]",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "p",
+		"Type": "Key"
+	},
+	{
+		"Text": "[TAB]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "y",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "[TAB]",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "[TAB]",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "[TAB]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[TAB]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "x",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "u",
+		"Type": "Key"
+	},
+	{
+		"Text": "t",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "ç",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Up]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Up]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Esc]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Up]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Up]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Down]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Up]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Up]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[TAB]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[TAB]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "´",
+		"Type": "Key"
+	},
+	{
+		"Text": "v",
+		"Type": "Key"
+	},
+	{
+		"Text": "l",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "[TAB]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[TAB]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[TAB]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[TAB]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[TAB]",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "[TAB]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[TAB]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "2",
+		"Type": "Key"
+	},
+	{
+		"Text": "2",
+		"Type": "Key"
+	},
+	{
+		"Text": "0",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Up]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Delete]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Delete]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[TAB]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[TAB]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[TAB]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[TAB]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Up]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Up]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Up]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "g",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "[TAB]",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "p",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "1",
+		"Type": "Key"
+	},
+	{
+		"Text": "0",
+		"Type": "Key"
+	},
+	{
+		"Text": ",",
+		"Type": "Key"
+	},
+	{
+		"Text": "2",
+		"Type": "Key"
+	},
+	{
+		"Text": "0",
+		"Type": "Key"
+	},
+	{
+		"Text": ",",
+		"Type": "Key"
+	},
+	{
+		"Text": "1",
+		"Type": "Key"
+	},
+	{
+		"Text": "6",
+		"Type": "Key"
+	},
+	{
+		"Text": ",",
+		"Type": "Key"
+	},
+	{
+		"Text": "2",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Up]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Up]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Up]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Up]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "v",
+		"Type": "Key"
+	},
+	{
+		"Text": "l",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "2",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Up]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "1",
+		"Type": "Key"
+	},
+	{
+		"Text": "0",
+		"Type": "Key"
+	},
+	{
+		"Text": ",",
+		"Type": "Key"
+	},
+	{
+		"Text": "2",
+		"Type": "Key"
+	},
+	{
+		"Text": "0",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Up]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Up]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Down]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Up]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Up]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Ctrl]",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Up]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "1",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Ctrl]",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Up]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "2",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Ctrl]",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Up]",
+		"Type": "Key"
+	},
+	{
+		"Text": "Left]",
+		"Type": "Key"
+	},
+	{
+		"Text": "Left]",
+		"Type": "Key"
+	},
+	{
+		"Text": "Left]",
+		"Type": "Key"
+	},
+	{
+		"Text": "Left]",
+		"Type": "Key"
+	},
+	{
+		"Text": "Left]",
+		"Type": "Key"
+	},
+	{
+		"Text": "Left]",
+		"Type": "Key"
+	},
+	{
+		"Text": "Left]",
+		"Type": "Key"
+	},
+	{
+		"Text": "Left]",
+		"Type": "Key"
+	},
+	{
+		"Text": "Left]",
+		"Type": "Key"
+	},
+	{
+		"Text": "Left]",
+		"Type": "Key"
+	},
+	{
+		"Text": "Left]",
+		"Type": "Key"
+	},
+	{
+		"Text": "Left]",
+		"Type": "Key"
+	},
+	{
+		"Text": "Left]",
+		"Type": "Key"
+	},
+	{
+		"Text": "Left]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Ctrl]",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Esc]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Ctrl]",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Ctrl]",
+		"Type": "Key"
+	},
+	{
+		"Text": "v",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Windows]",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "m",
+		"Type": "Key"
+	},
+	{
+		"Text": "d",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "p",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "g",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "1",
+		"Type": "Key"
+	},
+	{
+		"Text": "0",
+		"Type": "Key"
+	},
+	{
+		"Text": ",",
+		"Type": "Key"
+	},
+	{
+		"Text": "2",
+		"Type": "Key"
+	},
+	{
+		"Text": "0",
+		"Type": "Key"
+	},
+	{
+		"Text": ",",
+		"Type": "Key"
+	},
+	{
+		"Text": "1",
+		"Type": "Key"
+	},
+	{
+		"Text": "6",
+		"Type": "Key"
+	},
+	{
+		"Text": ",",
+		"Type": "Key"
+	},
+	{
+		"Text": "2",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Ctrl]",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Up]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "-",
+		"Type": "Key"
+	},
+	{
+		"Text": "t",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Esc]",
+		"Type": "Key"
+	},
+	{
+		"Text": "g",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "g",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "t",
+		"Type": "Key"
+	},
+	{
+		"Text": "h",
+		"Type": "Key"
+	},
+	{
+		"Text": "u",
+		"Type": "Key"
+	},
+	{
+		"Text": "b",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "b",
+		"Type": "Key"
+	},
+	{
+		"Text": "u",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "t",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "d",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "m",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "k",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": ",",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "t",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "m",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "t",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "l",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "l",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "g",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "t",
+		"Type": "Key"
+	},
+	{
+		"Text": "h",
+		"Type": "Key"
+	},
+	{
+		"Text": "u",
+		"Type": "Key"
+	},
+	{
+		"Text": "b",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "t",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "h",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "b",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "l",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "t",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "d",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "p",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "u",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "v",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "g",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "b",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "q",
+		"Type": "Key"
+	},
+	{
+		"Text": "u",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "l",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "t",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "p",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "m",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "t",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "v",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "l",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "d",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "l",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "t",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "p",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "d",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "g",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "d",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "g",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "t",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "d",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": ",",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "p",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "u",
+		"Type": "Key"
+	},
+	{
+		"Text": "b",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "f",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "m",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": ".",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "q",
+		"Type": "Key"
+	},
+	{
+		"Text": "u",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": ".",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "p",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "d",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "d",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "m",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "t",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "u",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "p",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "v",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "l",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "d",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "l",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "t",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "m",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "d",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Ctrl]",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Ctrl]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "l",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "g",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Ctrl]",
+		"Type": "Key"
+	},
+	{
+		"Text": "v",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "y",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "f",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "m",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "q",
+		"Type": "Key"
+	},
+	{
+		"Text": "u",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "l",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "t",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "t",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "u",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "m",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "h",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "b",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "l",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "t",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "d",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": ".",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "l",
+		"Type": "Key"
+	},
+	{
+		"Text": "u",
+		"Type": "Key"
+	},
+	{
+		"Text": "d",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "h",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "l",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "m",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "t",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "m",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "m",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "t",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "b",
+		"Type": "Key"
+	},
+	{
+		"Text": "u",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "d",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "ç",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "m",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "y",
+		"Type": "Key"
+	},
+	{
+		"Text": "u",
+		"Type": "Key"
+	},
+	{
+		"Text": "d",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "u",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "p",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "f",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "y",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "p",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "g",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "u",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "g",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "g",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "d",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "l",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "y",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "y",
+		"Type": "Key"
+	},
+	{
+		"Text": "u",
+		"Type": "Key"
+	},
+	{
+		"Text": "d",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "v",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "l",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "d",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Windows]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Windows]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Windows]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Esc]",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Esc]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Esc]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Windows]",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "m",
+		"Type": "Key"
+	},
+	{
+		"Text": "d",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "p",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "g",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "1",
+		"Type": "Key"
+	},
+	{
+		"Text": "9",
+		"Type": "Key"
+	},
+	{
+		"Text": "0",
+		"Type": "Key"
+	},
+	{
+		"Text": ",",
+		"Type": "Key"
+	},
+	{
+		"Text": "6",
+		"Type": "Key"
+	},
+	{
+		"Text": "3",
+		"Type": "Key"
+	},
+	{
+		"Text": ",",
+		"Type": "Key"
+	},
+	{
+		"Text": "1",
+		"Type": "Key"
+	},
+	{
+		"Text": "3",
+		"Type": "Key"
+	},
+	{
+		"Text": "9",
+		"Type": "Key"
+	},
+	{
+		"Text": ",",
+		"Type": "Key"
+	},
+	{
+		"Text": "1",
+		"Type": "Key"
+	},
+	{
+		"Text": "9",
+		"Type": "Key"
+	},
+	{
+		"Text": "7",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Up]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Ctrl]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Ctrl]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Ctrl]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Ctrl]",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Ctrl]",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "h",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "l",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "b",
+		"Type": "Key"
+	},
+	{
+		"Text": "u",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "t",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "d",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "p",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "m",
+		"Type": "Key"
+	},
+	{
+		"Text": "m",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "t",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "l",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "l",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "d",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "g",
+		"Type": "Key"
+	},
+	{
+		"Text": "u",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "y",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "q",
+		"Type": "Key"
+	},
+	{
+		"Text": "u",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "l",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "t",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "d",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "'",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "d",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "v",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "m",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "v",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "l",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "d",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "t",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "m",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "d",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "t",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "m",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "v",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "l",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "d",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "d",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "p",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "m",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "d",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "l",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "t",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "f",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "l",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "l",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "p",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "l",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "p",
+		"Type": "Key"
+	},
+	{
+		"Text": "v",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "v",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "p",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "d",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "t",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": ".",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "m",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "t",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "m",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "d",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "t",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "g",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "5",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "m",
+		"Type": "Key"
+	},
+	{
+		"Text": "4",
+		"Type": "Key"
+	},
+	{
+		"Text": "b",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "3",
+		"Type": "Key"
+	},
+	{
+		"Text": "3",
+		"Type": "Key"
+	},
+	{
+		"Text": "5",
+		"Type": "Key"
+	},
+	{
+		"Text": "7",
+		"Type": "Key"
+	},
+	{
+		"Text": "t",
+		"Type": "Key"
+	},
+	{
+		"Text": "3",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "x",
+		"Type": "Key"
+	},
+	{
+		"Text": "1",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Windows]",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "m",
+		"Type": "Key"
+	},
+	{
+		"Text": "d",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "g",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "8",
+		"Type": "Key"
+	},
+	{
+		"Text": "8",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": ",",
+		"Type": "Key"
+	},
+	{
+		"Text": "8",
+		"Type": "Key"
+	},
+	{
+		"Text": ",",
+		"Type": "Key"
+	},
+	{
+		"Text": "8",
+		"Type": "Key"
+	},
+	{
+		"Text": ",",
+		"Type": "Key"
+	},
+	{
+		"Text": "8",
+		"Type": "Key"
+	},
+	{
+		"Text": "8",
+		"Type": "Key"
+	},
+	{
+		"Text": ",",
+		"Type": "Key"
+	},
+	{
+		"Text": "8",
+		"Type": "Key"
+	},
+	{
+		"Text": ",",
+		"Type": "Key"
+	},
+	{
+		"Text": "8",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "p",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "g",
+		"Type": "Key"
+	},
+	{
+		"Text": "u",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "u",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "l",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "w",
+		"Type": "Key"
+	},
+	{
+		"Text": "u",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "q",
+		"Type": "Key"
+	},
+	{
+		"Text": "u",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "p",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "t",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "t",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "p",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "w",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "b",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "y",
+		"Type": "Key"
+	},
+	{
+		"Text": "h",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "b",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "h",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "b",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "d",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "'",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "u",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "p",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "d",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "d",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "l",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "p",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "p",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "p",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "d",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "d",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "l",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "p",
+		"Type": "Key"
+	},
+	{
+		"Text": "p",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "p",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "d",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "m",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "v",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "t",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "t",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "t",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "t",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "p",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "l",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "t",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "m",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "d",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "v",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "d",
+		"Type": "Key"
+	},
+	{
+		"Text": "e",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "l",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "g",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Esc]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Windows]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Esc]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Windows]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Up]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Windows]",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "1",
+		"Type": "Key"
+	},
+	{
+		"Text": "9",
+		"Type": "Key"
+	},
+	{
+		"Text": "2",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "0",
+		"Type": "Key"
+	},
+	{
+		"Text": ",",
+		"Type": "Key"
+	},
+	{
+		"Text": "6",
+		"Type": "Key"
+	},
+	{
+		"Text": "3",
+		"Type": "Key"
+	},
+	{
+		"Text": ",",
+		"Type": "Key"
+	},
+	{
+		"Text": "1",
+		"Type": "Key"
+	},
+	{
+		"Text": "3",
+		"Type": "Key"
+	},
+	{
+		"Text": "9",
+		"Type": "Key"
+	},
+	{
+		"Text": ",",
+		"Type": "Key"
+	},
+	{
+		"Text": "1",
+		"Type": "Key"
+	},
+	{
+		"Text": "9",
+		"Type": "Key"
+	},
+	{
+		"Text": "8",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Ctrl]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Ctrl]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Ctrl]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Ctrl]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Ctrl]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "Left]",
+		"Type": "Key"
+	},
+	{
+		"Text": "Left]",
+		"Type": "Key"
+	},
+	{
+		"Text": "Left]",
+		"Type": "Key"
+	},
+	{
+		"Text": "Left]",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Windows]",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "m",
+		"Type": "Key"
+	},
+	{
+		"Text": "d",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "p",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "g",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Ctrl]",
+		"Type": "Key"
+	},
+	{
+		"Text": "v",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Windows]",
+		"Type": "Key"
+	},
+	{
+		"Text": "Left]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "m",
+		"Type": "Key"
+	},
+	{
+		"Text": "4",
+		"Type": "Key"
+	},
+	{
+		"Text": "b",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "3",
+		"Type": "Key"
+	},
+	{
+		"Text": "3",
+		"Type": "Key"
+	},
+	{
+		"Text": "5",
+		"Type": "Key"
+	},
+	{
+		"Text": "7",
+		"Type": "Key"
+	},
+	{
+		"Text": "t",
+		"Type": "Key"
+	},
+	{
+		"Text": "3",
+		"Type": "Key"
+	},
+	{
+		"Text": "s",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Shift]",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "x",
+		"Type": "Key"
+	},
+	{
+		"Text": "1",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "p",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "m",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "l",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "p",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "l",
+		"Type": "Key"
+	},
+	{
+		"Text": "o",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Down]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Windows]",
+		"Type": "Key"
+	},
+	{
+		"Text": "Left]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Ctrl]",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Ctrl]",
+		"Type": "Key"
+	},
+	{
+		"Text": "v",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "a",
+		"Type": "Key"
+	},
+	{
+		"Text": "p",
+		"Type": "Key"
+	},
+	{
+		"Text": "p",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Down]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Windows]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Windows]",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "m",
+		"Type": "Key"
+	},
+	{
+		"Text": "d",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Enter]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Windows]",
+		"Type": "Key"
+	},
+	{
+		"Text": "Left]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[255]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Windows]",
+		"Type": "Key"
+	},
+	{
+		"Text": "r",
+		"Type": "Key"
+	},
+	{
+		"Text": "c",
+		"Type": "Key"
+	},
+	{
+		"Text": "m",
+		"Type": "Key"
+	},
+	{
+		"Text": "d",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Back]",
+		"Type": "Key"
+	},
+	{
+		"Text": "p",
+		"Type": "Key"
+	},
+	{
+		"Text": "i",
+		"Type": "Key"
+	},
+	{
+		"Text": "n",
+		"Type": "Key"
+	},
+	{
+		"Text": "g",
+		"Type": "Key"
+	},
+	{
+		"Text": "[Space]",
+		"Type": "Key"
+	},
+	{
+		"Text": "1",
+		"Type": "Key"
+	},
+	{
+		"Text": "9",
+		"Type": "Key"
+	},
+	{
+		"Text": "0",
+		"Type": "Key"
+	},
+	{
+		"Text": ",",
+		"Type": "Key"
+	},
+	{
+		"Text": "6",
+		"Type": "Key"
+	},
+	{
+		"Text": "3",
+		"Type": "Key"
+	},
+	{
+		"Text": ",",
+		"Type": "Key"
+	},
+	{
+		"Text": "1",
+		"Type": "Key"
+	},
+	{
+		"Text": "3",
+		"Type": "Key"
+	},
+	{
+		"Text": "9",
+		"Type": "Key"
+	},
+	{
+		"Text": ",",
+		"Type": "Key"
+	},
+	{
+		"Text": "1",
+		"Type": "Key"
+	},
+	{
+		"Text": "9",
+		"Type": "Key"
+	}
+]
